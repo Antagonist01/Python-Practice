@@ -1,3 +1,8 @@
+""" A fun Python program where the computer selects a random number between 1 and 10, and the player tries to guess it. 
+The program provides hints (Too high! or Too low!) and keeps track of the number of attempts. 
+The game continues in a while loop until the correct number is guessed.  """
+
+
 import random
 
 # Generates a random number between 1 and 100
